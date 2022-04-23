@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+GH_A1_0.0.1/Assets*
+*.json
+*.asset
+*.txt
+GH_A1_0.0.1/Library/*
+GH_A1_0.0.1/Logs/*
+GH_A1_0.0.1/Temp/*
+GH_A1_0.0.1/.vsconfig
